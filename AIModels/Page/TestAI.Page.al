@@ -44,6 +44,17 @@ page 99000 "SAD Test AI"
                     Response := AIMgt.SendAIRequest(PromptText);
                 end;
             }
+            action(ShowAnError)
+            {
+                Caption = 'Show an error';
+                ApplicationArea = All;
+                Image = Warning;
+
+                trigger OnAction()
+                begin
+                    Error('This is an error!');
+                end;
+            }
         }
     }
 

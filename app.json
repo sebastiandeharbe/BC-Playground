@@ -2,7 +2,7 @@
   "id": "2049953c-6b11-46a0-b6ac-aed45516ba4c",
   "name": "BC Playground",
   "publisher": "sebastiandeharbe",
-  "version": "26.0.1.20251015",
+  "version": "26.0.5.20260401",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -21,12 +21,13 @@
     }
   ],
   "resourceExposurePolicy": {
-    "allowDebugging": true,
-    "allowDownloadingSource": true,
-    "includeSourceInSymbolFile": true
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false,
+    "applyToDevExtension": false
   },
   "runtime": "15.0",
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith", "GenerateCaptions", "TranslationFile"
   ]
 }

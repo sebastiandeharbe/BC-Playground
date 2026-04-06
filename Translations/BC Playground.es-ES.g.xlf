@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="BC Playground">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2403416592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SAD Table Entry</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tabla Movimiento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SAD Table Entry - Property Caption</note>
+          <target>Tabla Movimiento</target>
+        </trans-unit>
+        <trans-unit id="Table 2403416592 - Field 1627640004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Mov."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SAD Table Entry - Field Entry Date - Property Caption</note>
+          <target>Fecha Mov.</target>
+        </trans-unit>
+        <trans-unit id="Table 2403416592 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="N° Mov."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SAD Table Entry - Field Entry No. - Property Caption</note>
+          <target>N° Mov.</target>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Service Setup</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 1846567327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Certificate</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field Certificate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 2788077256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ClientID</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field ClientId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 4069789961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ClientSecret</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field ClientSecret - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 593885934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scope</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field Scope - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 1909013213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Action</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field SOAPAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 3498845399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token Duration</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field TokenDuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 4165234317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 1814464443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2452167470 - Field 2884316743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WebService</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Setup - Field WebService - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2556356162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Service Token</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2556356162 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2556356162 - Field 4012821365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field Expiration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2556356162 - Field 1513319962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh Token</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field Refresh Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2556356162 - Field 593885934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scope</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field Scope - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2556356162 - Field 685401789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sign</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field Sign - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2556356162 - Field 4146460525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2556356162 - Field 2884316743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Service</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field WebService - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4195971196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test AI</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SAD Test AI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4195971196 - Control 1560704475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prompt</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SAD Test AI - Control PromptText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4195971196 - Control 2278520725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SAD Test AI - Control Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4195971196 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Try AI!</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SAD Test AI - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4195971196 - Action 3139215720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show an error</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SAD Test AI - Action ShowAnError - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 234836401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SAD Test Excel</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SAD Test Excel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 234836401 - Action 2256715542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload Excel File</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SAD Test Excel - Action Upload Excel File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3197004170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Service Setup Card</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1755189435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Service Setups</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Setups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2768193967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Service Tokens</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Tokens - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3721257870 - Action 3928223454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Duplicate Record</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SAD Sales Order List - Action DuplicateRecord - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2180629014 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SAD AI Models - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2180629014 - EnumValue 1617717176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>deepseek r1</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SAD AI Models - EnumValue deepseek-r1-distill-qwen-7b - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2180629014 - EnumValue 2109556370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>meta llama 3.1</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SAD AI Models - EnumValue meta-llama-3.1-8b-instruct - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
