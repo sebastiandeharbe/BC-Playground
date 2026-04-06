@@ -43,6 +43,7 @@ page 99000 "SAD Test AI"
                     Clear(Response);
                     Response := AIMgt.SendAIRequest(PromptText);
                     // Comentario en rama nueva
+                    // Comentario 2 en rama nueva
                 end;
             }
             action(ShowAnError)
