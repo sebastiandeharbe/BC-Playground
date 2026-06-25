@@ -166,6 +166,16 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Tokens - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4213174163 - Action 1067308688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1251581097">
+          <source>Re-enviar con cuenta predeterminada</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SAD Email Outbox - Action Re-Enviar con cuenta predeterminada - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3990329575 - Action 3274652748 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
+          <source>Save selected</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SAD Posted Sales Invoices - Action Save selected - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3721257870 - Action 3928223454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
           <source>Duplicate Record</source>
           <note from="Developer" annotates="general" priority="2"/>
