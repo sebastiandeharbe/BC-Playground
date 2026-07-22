@@ -3,6 +3,20 @@ pageextension 99000 "SAD Sales Order List" extends "Sales Order List"
 
     actions
     {
+        addfirst(processing)
+        {
+            action(DoSomething)
+            {
+                Caption = 'Do Something';
+                ApplicationArea = All;
+                Image = CheckDuplicates;
+
+                trigger OnAction()
+                begin
+                    Message('Something');
+                end;
+            }
+        }
         addlast(processing)
         {
 

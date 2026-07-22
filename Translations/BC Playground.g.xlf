@@ -113,6 +113,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field WebService - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 542067967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>apiPage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SAD Page API - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 4195971196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Test AI</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -163,6 +168,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Tokens - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 1137848185 - Action 1068470234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 344073747">
+          <source>Seleccionar todas las tablas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SAD Data Search Setup - Action Seleccionar todas las tablas - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4213174163 - Action 1067308688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1251581097">
           <source>Re-enviar con cuenta predeterminada</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -172,6 +182,11 @@
           <source>Save selected</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension SAD Posted Sales Invoices - Action Save selected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3721257870 - Action 3920969277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Do Something</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SAD Sales Order List - Action DoSomething - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3721257870 - Action 3928223454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
           <source>Duplicate Record</source>
