@@ -113,6 +113,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field WebService - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2999074313 - Method 3678925459 - NamedType 1968152428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selecciona el archivo Excel a importar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SAD Migration Fxs - Method ImportarExcel - NamedType DialogTitle</note>
+        </trans-unit>
         <trans-unit id="Page 542067967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>apiPage</source>
           <note from="Developer" annotates="general" priority="2"></note>

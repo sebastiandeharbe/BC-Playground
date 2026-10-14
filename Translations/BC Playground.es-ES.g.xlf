@@ -5,21 +5,21 @@
       <group id="body">
         <trans-unit id="Table 2403416592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>SAD Table Entry</source>
+          <target state="translated">Tabla Movimiento</target>
           <note from="Developer" annotates="general" priority="2">ESP="Tabla Movimiento"</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SAD Table Entry - Property Caption</note>
-          <target>Tabla Movimiento</target>
         </trans-unit>
         <trans-unit id="Table 2403416592 - Field 1627640004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Entry Date</source>
+          <target state="translated">Fecha Mov.</target>
           <note from="Developer" annotates="general" priority="2">ESP="Fecha Mov."</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SAD Table Entry - Field Entry Date - Property Caption</note>
-          <target>Fecha Mov.</target>
         </trans-unit>
         <trans-unit id="Table 2403416592 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Entry No.</source>
+          <target state="translated">N° Mov.</target>
           <note from="Developer" annotates="general" priority="2">ESP="N° Mov."</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SAD Table Entry - Field Entry No. - Property Caption</note>
-          <target>N° Mov.</target>
         </trans-unit>
         <trans-unit id="Table 2452167470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Web Service Setup</source>
@@ -115,6 +115,11 @@
           <source>Web Service</source>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Token - Field WebService - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2999074313 - Method 3678925459 - NamedType 1968152428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selecciona el archivo Excel a importar</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SAD Migration Fxs - Method ImportarExcel - NamedType DialogTitle</note>
         </trans-unit>
         <trans-unit id="Page 542067967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>apiPage</source>
